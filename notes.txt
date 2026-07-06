@@ -1,0 +1,13 @@
+async
+callback function
+event emitter
+event handling
+
+
+// globally nodemon :"npm i -g nodemon" - whenever we find the error "nodemon is not recognized" we have to install nodemon globally.
+
+// to run:- npm nodemon server.js / npx nodemon server.js - (npx is used for running the package)
+
+models in mongoose: to perform CRUD operations we need models over schema.
+
+we can't make changes in hashing we can't 
