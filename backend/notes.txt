@@ -11,3 +11,11 @@ event handling
 models in mongoose: to perform CRUD operations we need models over schema.
 
 we can't make changes in hashing we can't 
+
+# payload: 
+
+9th july 2026
+client                                     server 
+-> generate a req                            -> give res on basis or req
+
+# use case of middleware: to validate the request or to check if the token is valid or not 
